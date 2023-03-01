@@ -1,0 +1,16 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Willian Nicoletti",
+  "license": "MIT",
+  "dependencies": {
+    "cfonts": "^3.1.1",
+    "inquire": "^0.4.8"
+  }
+}
